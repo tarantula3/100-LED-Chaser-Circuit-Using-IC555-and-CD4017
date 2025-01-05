@@ -119,25 +119,40 @@ Thanks
 Thanks again for checking my post. I hope it helps you.
 If you want to support me subscribe to my YouTube Channel: https://www.youtube.com/user/tarantula3
 
-Video: View https://youtu.be/paxPiBps6Mk
-Full Blog Post: View 
 
-References
-GitHub: View https://github.com/tarantula3/100-LED-Chaser-Circuit-Using-IC555-and-CD4017/tree/main
-Gerber: Download https://github.com/tarantula3/100-LED-Chaser-Circuit-Using-IC555-and-CD4017/tree/main
+Video: [View](https://youtu.be/paxPiBps6Mk)
+
+Full Blog Post: [View](https://diyfactory007.blogspot.com/2025/01/100LED.html) 
+
+
+## References
+GitHub: https://github.com/tarantula3/100-LED-Chaser-Circuit-Using-IC555-and-CD4017/tree/main
+
+Gerber: https://github.com/tarantula3/100-LED-Chaser-Circuit-Using-IC555-and-CD4017/tree/main
+
 DIY 555 Pulse Generator Module: https://youtu.be/bMAnipPOjFo
 
 
-Support My Work
+## Support My Work
+
 BTC: 1Hrr83W2zu2hmDcmYqZMhgPQ71oLj5b7v5
+
 LTC: LPh69qxUqaHKYuFPJVJsNQjpBHWK7hZ9TZ
+
 DOGE: DEU2Wz3TK95119HMNZv2kpU7PkWbGNs9K3
+
 ETH: 0xD64fb51C74E0206cB6702aB922C765c68B97dCD4
+
 BAT: 0x9D9E77cA360b53cD89cc01dC37A5314C0113FFc3
+
 BNB: 0xD64fb51C74E0206cB6702aB922C765c68B97dCD4
+
 POL: 0xD64fb51C74E0206cB6702aB922C765c68B97dCD4
+
 LBC: bZ8ANEJFsd2MNFfpoxBhtFNPboh7PmD7M2
+
 COS: bnb136ns6lfw4zs5hg4n85vdthaad7hq5m4gtkgf23 Memo: 572187879
+
 
 Thanks, ca again in my next tutorial.
 
